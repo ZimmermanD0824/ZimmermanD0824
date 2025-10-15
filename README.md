@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 <hr/>
+## Certifications
 
 ## 🤳 Connect With Me
 
