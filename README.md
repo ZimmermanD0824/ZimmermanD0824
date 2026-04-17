@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <hr/>  
 
 ## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3cf3bc5a-e4f1-41ad-bbdf-a26149f2c088" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 ## 🤳 Connect With Me
