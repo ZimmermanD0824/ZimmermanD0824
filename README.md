@@ -24,17 +24,17 @@ I enjoy building hands-on cybersecurity projects that strengthen detection, redu
 - PowerShell Automation
 - Documentation and Reporting
 
-## Featured Portfolio Areas
+## Portfolio Projects
 
-- Vulnerability assessments
-- Security monitoring and alerting
-- Compliance and audit support
-- Security automation
-- Risk-focused remediation tracking
+- Cloud-Based Active Directory Setup and User Management
+- Cloud Security Risk Assessment & GRC Simulation (Azure)
+- Linux Log File Analysis, Automation, and SIEM Visualization
+- Network Scanning and Host Enumeration with Nmap
+- Web Application Scanning with OWASP ZAP (APPSec Project)
 
 ## Tools
 
-`Tenable` `Microsoft Sentinel` `Microsoft Defender for Endpoint` `PowerShell` `Windows` `Linux` `DISA STIG`
+`Tenable` `Microsoft Sentinel` `Microsoft Defender for Endpoint` `PowerShell` `Windows` `Linux` 
 
 ## Connect
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
